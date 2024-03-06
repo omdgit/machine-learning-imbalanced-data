@@ -6,3 +6,4 @@
 *.zip
 
 # folders
+.vscode/settings.json
